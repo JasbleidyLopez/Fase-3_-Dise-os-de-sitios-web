@@ -1,0 +1,16 @@
+nav, header, .temas, .Doc, aside, footer{
+    max-width: 97%;
+    margin: auto;
+}
+header{
+    background-color: rgb(10, 10, 153);
+    color: white;
+}
+aside{
+    display: inline-block;
+    max-width: 27%;
+}
+.Doc{
+    display: inline-block;
+    max-width: 65%;
+}
