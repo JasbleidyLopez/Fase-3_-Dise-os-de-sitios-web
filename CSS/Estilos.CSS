@@ -1,4 +1,4 @@
-nav, header, .Temas, .Doc, aside, footer{
+nav, header, .Temas, aside, .Doc, footer{
     margin: auto;
     text-align: justify;
     color:  rgb(3, 84, 150);
@@ -47,38 +47,95 @@ li a, boton{
 .boton:hover .Listadesplegable{
     display: block;
 }
-Li a:hover{
+Li a:hover {
     background-color: rgb(120, 188, 243);
-}
-.Lecturas{
-    text-align: justify;
-    max-width: 65%;
-    color:  rgb(3, 84, 150);
-}
-.autora{
-    text-align: center;
-    max-width: 65%;
-    color:  rgb(3, 84, 150);  
-}
-li a, Boton{
+} 
+li a, BOTON{
     display: inline-block;
     text-align: center;
     text-decoration: none;
     padding: 0.9em 1em;
 }
-.ListaDesplegable{
+.LISTAdesplegable{
     display: none;
     position: absolute;
 }
-.ListaDesplegable a{
+.LISTAdesplegable a{
     display: block;
     color: teal;
     text-align: left;
 }
-.Boton:hover .ListaDesplegable{
+.BOTON:hover .LISTAdesplegable{
     display: block;
 }
-Li a:hover{
+Li a:hover {
     background-color: rgb(120, 188, 243);
 }
+li a, BotoN{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.9em 1em;
+}
+.ListaDESPLEGABLE{
+        display: none;
+        position: absolute;
+    }
+.ListaDESPLEGABLE a{
+        display: block;
+        color: teal;
+        text-align: left;
+    }
+.BotoN:hover .ListaDESPLEGABLE{
+        display: block;
+    }
+Li a:hover{
+        background-color: rgb(120, 188, 243);
+    }
 
+li a, Boton{
+        display: inline-block;
+        text-align: center;
+        text-decoration: none;
+        padding: 0.9em 1em;
+    }
+    .ListaDesplegable{
+            display: none;
+            position: absolute;
+        }
+    .ListaDesplegable a{
+            display: block;
+            color: teal;
+            text-align: left;
+        }
+    .Boton:hover .ListaDesplegable{
+            display: block;
+        }
+    Li a:hover{
+            background-color: rgb(120, 188, 243);
+        }
+        .Lecturas{
+            text-align: justify;
+            max-width: 65%;
+            color:  rgb(3, 84, 150);   
+        }
+        .Multimedia{
+            text-align: justify;
+            max-width: 65%;
+            color:  rgb(3, 84, 150);  
+        }
+        .Actividades{
+            text-align: justify;
+            max-width: 65%;
+            color:  rgb(3, 84, 150);   
+        }
+        .autora{
+            text-align: center;
+            max-width: 65%;
+            color:  rgb(3, 84, 150); 
+        }
+        aside{
+            display: inline-block;
+            max-width: 30%;
+            text-align: right;
+        }
