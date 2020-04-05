@@ -114,28 +114,40 @@ li a, Boton{
     Li a:hover{
             background-color: rgb(120, 188, 243);
         }
-        .Lecturas{
+    .Lecturas{
             text-align: justify;
             max-width: 65%;
             color:  rgb(3, 84, 150);   
         }
-        .Multimedia{
-            text-align: justify;
-            max-width: 65%;
+    .Crucigrama{
+            text-align: center;
             color:  rgb(3, 84, 150);  
         }
-        .Actividades{
-            text-align: justify;
-            max-width: 65%;
+    .Sopa{
+            text-align: center;
             color:  rgb(3, 84, 150);   
         }
-        .autora{
+    .autora{
             text-align: center;
             max-width: 65%;
             color:  rgb(3, 84, 150); 
         }
-        aside{
-            display: inline-block;
-            max-width: 30%;
-            text-align: right;
+    .Video1{
+            text-align: center;
+            color:  rgb(3, 84, 150); 
+        } 
+    .Video2{
+                text-align: center;
+                color:  rgb(3, 84, 150);  
         }
+    .pag2{
+        display: inline-block;
+        max-width: 30%;
+        text-align: right; 
+    }
+    .pag3{
+        display: inline-block;
+        max-width: 30%;
+        text-align: right;
+    }
+       
