@@ -141,11 +141,15 @@ li a, Boton{
                 color:  rgb(3, 84, 150);  
         }
     .pag2{
-        display: inline-block;
         max-width: 30%;
         text-align: right; 
     }
     .pag3{
+        display: inline-block;
+        max-width: 30%;
+        text-align: right;
+    }
+    .twitter-timeline{
         display: inline-block;
         max-width: 30%;
         text-align: right;
