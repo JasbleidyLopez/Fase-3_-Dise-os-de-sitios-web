@@ -115,8 +115,8 @@ li a, Boton{
             background-color: rgb(120, 188, 243);
         }
     .Lecturas{
+        margin: auto;
             text-align: justify;
-            max-width: 65%;
             color:  rgb(3, 84, 150);   
         }
     .Crucigrama{
@@ -129,7 +129,6 @@ li a, Boton{
         }
     .autora{
             text-align: center;
-            max-width: 65%;
             color:  rgb(3, 84, 150); 
         }
     .Video1{
@@ -139,20 +138,11 @@ li a, Boton{
     .Video2{
                 text-align: center;
                 color:  rgb(3, 84, 150);  
-        }
-    .pag2{
-        display: inline-block;
-        max-width: 30%;
-        text-align: right;
     }
-    .pag3{
-        display: inline-block;
-        max-width: 30%;
-        text-align: right;
+    .imagengit{
+        text-align: center;
     }
-    .twitter-timeline{
-        display: inline-block;
-        max-width: 30%;
-        text-align: right;
+    .imagengithub{
+        text-align: center;
     }
-       
+    
